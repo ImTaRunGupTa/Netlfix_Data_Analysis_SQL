@@ -1,6 +1,6 @@
 # Netflix Advanced SQL Project
 
-![Netflix Logo]([https://img.shields.io/badge/NETFLIX-E50914?style=for-the-badge&logo=netflix&logoColor=white](https://github.com/ImTaRunGupTa/Netlfix_Data_Analysis_SQL/blob/main/netflix-logo.avif))
+![Netflix Logo](netflix-logo.avif)
 
 
 [Click Here to get Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows)
